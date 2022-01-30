@@ -1,0 +1,13 @@
+channelPackageId=10203040
+locationId=100001
+version=1507011633
+picfolder=loc/
+posterfolder=loc/
+defaultlogo=default.jpg
+Bcal=1000
+PacId=1234
+IDCh=/mnt/persistent/EPG/IdCh
+PLm3u=/tmp/phpserver/PL/
+PausChPac=/tmp/phpserver/fbcid
+GrID=/tmp/phpserver/groupid
+ChGr=/tmp/phpserver/ChGroup.xml
